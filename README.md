@@ -19,4 +19,4 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Lighthouses rule
 
-![lighthouse](https://cdn-icons-png.flaticon.com/512/753/753890.png)
+<img src="https://cdn-icons-png.flaticon.com/512/753/753890.png" alt="lighthouse" width="20px"/>
