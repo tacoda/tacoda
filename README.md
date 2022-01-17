@@ -5,12 +5,12 @@
 [Personal Website](https://tacoda.dev)
 
 > 🌐 Fullstack Web Engineer &bull; ☁️ Cloud Architect \
-> 🛤⚛️ Rails & React Developer &bull; 🔒 Web Application Security Specialist \
-> 📞 Erlang & OTP Fan &bull; 📖 Open Source Contributor &bull; 🤓 Crypto Nerd
+> 🔒 Web Application Security Specialist &bull; 💎🛤⚛️ Ruby on Rails & React Developer \
+> 📞 EVM & OTP Enthusiast &bull; 📖 Open Source Contributor &bull; 🤓 Crypto Nerd
 
 ---
 
-- 👨‍💻 My favorite programming languages are: Elixir, Lisp (especially LFE), Python, Ruby, and Rust.
+- 👨‍💻 My favorite programming languages are: Elixir, Erlang, Lisp (especially LFE), Python, Ruby, and Rust.
 - 🔭 I’m currently working on figuring out kubernetes.
 - 🌱 I’m currently learning about web security.
 - 👯 I’m looking to collaborate on Web3 development.
