@@ -6,7 +6,7 @@
 
 > 🌐 Fullstack Web Engineer &bull; ☁️ Cloud Architect \
 > 🔒 Web Application Security Specialist &bull; 💎🛤⚛️ Ruby on Rails & React Developer \
-> 📞 EVM & OTP Enthusiast &bull; 📖 Open Source Contributor &bull; 🤓 Crypto Nerd
+> 📞 OTP Enthusiast &bull; 📖 Open Source Contributor &bull; 🤓 Crypto Nerd
 
 ---
 
