@@ -6,16 +6,16 @@
 
 > 🌐 Fullstack Web Engineer &bull; ☁️ Cloud Architect \
 > 🔒 Web Application Security Specialist &bull; 💎🛤⚛️ Ruby on Rails & React Developer \
-> 📞 OTP Enthusiast &bull; 📖 Open Source Contributor &bull; 🤓 Crypto Nerd
+> 📞 OTP Enthusiast &bull; 📖 Open Source Contributor
 
 ---
 
 - 👨‍💻 My favorite programming languages are: Elixir, Erlang, Lisp (especially LFE), Python, Ruby, and Rust.
 - 🔭 I’m currently working on figuring out kubernetes.
 - 🌱 I’m currently learning about web security.
-- 👯 I’m looking to collaborate on Web3 development.
+- 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about free will.
-- 📫 How to reach me: [email](mailto:tacoda@hey.com) or [twitter](https://twitter.com/tacoda_dev)
+- 📫 How to reach me: [email](mailto:tacoda@hey.com)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Lighthouses rule
 
