@@ -2,21 +2,13 @@
 
 ![this is fine](https://c.tenor.com/fKIG2kiLVPgAAAAM/this-is-fine-its-fine.gif)
 
-[Personal Website](https://tacoda.dev)
-
-> 🌐 Fullstack Web Engineer &bull; ☁️ Cloud Architect \
-> 🔒 Web Application Security Specialist &bull; 💎🛤⚛️ Ruby on Rails & React Developer \
-> 📞 OTP Enthusiast &bull; 📖 Open Source Contributor
+[Personal Website](https://www.tacoda.dev)
 
 ---
 
-- 👨‍💻 My favorite programming languages are: Elixir, Erlang, Lisp (especially LFE), Python, Ruby, and Rust.
-- 🔭 I’m currently working on figuring out kubernetes.
-- 🌱 I’m currently learning about web security.
+- 👨‍💻 My favorite programming languages are: Ruby, Rust, Elixir, and Clojure.
+- 🔭 I’m currently working on building more substantial, complete applications with Rust.
+- 🌱 I’m currently learning more about web application security.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about free will.
-- 📫 How to reach me: [email](mailto:tacoda@hey.com)
+- 💬 How to reach me: [Contact Form](https://14c3lb7tvwf.typeform.com/to/A6wavkIt)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Lighthouses rule
-
-<img src="https://cdn-icons-png.flaticon.com/512/753/753890.png" alt="lighthouse" width="50px"/>
