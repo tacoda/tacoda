@@ -5,3 +5,5 @@
 - 💬 How to reach me: [Email](mailto:tacoda@hey.com)
 
 [Website](https://www.tacoda.dev)
+
+[Resources](https://github.com/tacoda/resources/blob/main/README.md)
