@@ -1,7 +1,5 @@
 # Ian Johnson
 
-- 👨‍💻 My favorite programming language is **Python** 🐍.
-- 🔭 I’m currently working on...
-- 💬 How to reach me: [Email](mailto:ian.johnson@tacoda.dev)
+💬 How to reach me: [Email](mailto:tacoda@hey.com)
 
-[Website](https://www.tacoda.dev)
+🌐 [Website](https://www.tacoda.dev)
