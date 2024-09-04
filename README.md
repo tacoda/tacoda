@@ -2,9 +2,9 @@
 
 <div align="center">
 
-## 💡 Contact Me:
+## 💬 Contact Me:
 
-💬 How to reach me: [Email](mailto:tacoda@hey.com)
+✉️ [Email](mailto:tacoda@hey.com)
 
 🌐 [Website](https://tacoda.github.io)
 
