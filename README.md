@@ -27,7 +27,7 @@
 
 **Languages**
 
-[![PHP, Python, Ruby, Go](https://skillicons.dev/icons?i=php,py,ruby,go,js,ts)](https://skillicons.dev)
+[![C, Go, PHP, Python, Ruby, JavaScript, CoffeeScript, TypeScript](https://skillicons.dev/icons?i=c,go,php,py,ruby,js,coffeescript,ts)](https://skillicons.dev)
 
 **Frameworks**
 
@@ -35,7 +35,7 @@
 
 **Front End**
 
-[![HTML, CSS, Sass, CoffeeScript, Bootstrap, Tailwind, jQuery, AlpineJS, React, Vue, WebPack, Vite](https://skillicons.dev/icons?i=html,css,sass,coffeescript,bootstrap,tailwind,jquery,alpinejs,react,vue,webpack,vite)](https://skillicons.dev)
+[![HTML, CSS, Sass, Bootstrap, Tailwind, jQuery, AlpineJS, React, Vue, WebPack, Vite](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,jquery,alpinejs,react,vue,webpack,vite)](https://skillicons.dev)
 
 **Data Storage**
 
