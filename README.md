@@ -4,7 +4,11 @@
 
 Hello World, I'm Ian!
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tacoda/) &nbsp;
+<p>
+    <a target="_blank" href="mailto:tacoda@hey.com"><img alt="Email" src="https://img.shields.io/badge/email-black?style=for-the-badge&logo=maildotru&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://tacoda.github.io"><img alt="Website" src="https://img.shields.io/badge/website-green?style=for-the-badge&logo=curl&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://www.linkedin.com/in/tacoda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linked_in-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
 
 </div>
 
@@ -32,8 +36,8 @@ Hello World, I'm Ian!
 ## 📖 Read My Newsletters:
 
 <p>
-    <a target="_blank"href="https://diffengine.substack.com/"><img alt="Tech Substack" src="https://img.shields.io/badge/diffengine-orange?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank"href=https://roamingroots.substack.com/"><img alt="Travel Substack" src="https://img.shields.io/badge/roamingroots-orange?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://diffengine.substack.com/"><img alt="Tech Substack" src="https://img.shields.io/badge/diffengine-orange?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank" href=https://roamingroots.substack.com/"><img alt="Travel Substack" src="https://img.shields.io/badge/roamingroots-orange?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
 ## 🏆 My Stats:
