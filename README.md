@@ -35,7 +35,7 @@
 
 **Front End**
 
-[![HTML, CSS, Sass, Bootstrap, Tailwind, jQuery, React, Vue](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,jquery,react,vue)](https://skillicons.dev)
+[![HTML, CSS, Sass, CoffeeScript, Bootstrap, Tailwind, jQuery, AlpineJS, React, Vue, WebPack, Vite](https://skillicons.dev/icons?i=html,css,sass,coffeescript,bootstrap,tailwind,jquery,alpinejs,react,vue,webpack,vite)](https://skillicons.dev)
 
 **Data Storage**
 
@@ -43,11 +43,11 @@
 
 **Operations**
 
-[![Bash, Linux, Docker, Kubernetes, AWS, Regex](https://skillicons.dev/icons?i=bash,linux,docker,kubernetes,aws,regex)](https://skillicons.dev)
+[![Bash, Linux, Docker, Kubernetes, AWS, Regex, GitHub Actions, Terraform](https://skillicons.dev/icons?i=bash,linux,docker,kubernetes,aws,regex,githubactions,terraform)](https://skillicons.dev)
 
 **Tools**
 
-[![Bun Git, GitHub, Grafana, Sentry](https://skillicons.dev/icons?i=bun,git,github,grafana,sentry)](https://skillicons.dev)
+[![NodeJS, Bun, Cypress, Git, GitHub, Grafana, Prometheus, Sentry, Selenium, Vim, Emacs](https://skillicons.dev/icons?i=nodejs,bun,cypress,git,github,grafana,prometheus,sentry,selenium,vim,emacs)](https://skillicons.dev)
 
 ## 📖 Read My Newsletters:
 
