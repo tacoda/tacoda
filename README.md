@@ -35,7 +35,7 @@
 
 **Front End**
 
-[![HTML, CSS, Sass, Bootstrap, Tailwind, React, Vue](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,vue)](https://skillicons.dev)
+[![HTML, CSS, Sass, Bootstrap, Tailwind, jQuery, React, Vue](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,jquery,react,vue)](https://skillicons.dev)
 
 **Data Storage**
 
