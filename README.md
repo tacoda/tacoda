@@ -19,12 +19,6 @@ Hello World, I'm Ian!
 
 <div align="center">
 
-## 💬 Contact Me:
-
-✉️ [Email](mailto:tacoda@hey.com)
-
-🌐 [Website](https://tacoda.github.io)
-
 ## 💡 A Quote:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
