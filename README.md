@@ -4,4 +4,6 @@
 
 🌐 [Website](https://tacoda.github.io)
 
-🧳 [Travel Blog](https://world.hey.com/tacoda)
+🧑‍💻 [Tech Substack](https://diffengine.substack.com/)
+
+🧳 [Travel Substack](https://roamingroots.substack.com/)
