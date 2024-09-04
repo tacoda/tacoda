@@ -14,3 +14,10 @@
 ## 💻 My Tech Stack:
 
 [![PHP, Python, Ruby, Go, Laravel, Flask, Rails, React, Vue, JavaScript, TypeScript, Docker, Kubernetes, AWS](https://skillicons.dev/icons?i=php,python,ruby,go,laravel,flask,rails,react,vue,js,ts,docker,kubernetes,aws)](https://skillicons.dev)
+
+## 📖 Read My Newsletters:
+
+<p>
+    <a target="_blank"href="https://diffengine.substack.com/"><img alt="Tech Substack" src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href=https://roamingroots.substack.com/"><img alt="Travel Substack" src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
