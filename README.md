@@ -33,17 +33,21 @@
 
 [![Laravel, Flask, Rails, React, Vue](https://skillicons.dev/icons?i=laravel,flask,rails,react,vue)](https://skillicons.dev)
 
-**Databases**
+**Front End**
 
-[![MySQL, Postgres, SQLite](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+[![HTML, CSS, Sass, Bootstrap, Tailwind, React, Vue](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,vue)](https://skillicons.dev)
+
+**Data Storage**
+
+[![MySQL, Postgres, SQLite, Redis](https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis)](https://skillicons.dev)
 
 **Operations**
 
-[![Bash, Docker, Kubernetes, AWS, Redis, Regex](https://skillicons.dev/icons?i=bash,docker,kubernetes,aws,redis,regex)](https://skillicons.dev)
+[![Bash, Linux, Docker, Kubernetes, AWS, Regex](https://skillicons.dev/icons?i=bash,linux,docker,kubernetes,aws,regex)](https://skillicons.dev)
 
----
+**Tools**
 
-[![PHP, Python, Ruby, Go, Laravel, Flask, Rails, React, Vue, JavaScript, TypeScript, Docker, Kubernetes, AWS, Bash, Bun, CSS, Git, GitHub, Grafana, HTML, HTMX, Linux, MySQL, Postgres, Redis, Regex, Sass, SQLite, Sentry, Tailwind](https://skillicons.dev/icons?i=php,python,ruby,go,laravel,flask,rails,react,vue,js,ts,docker,kubernetes,aws,bash,bun,css,git,github,grafana,html,htmx,linux,mysql,postgres,redis,regex,sass,sqlite,sentry,tailwind)](https://skillicons.dev)
+[![Bun Git, GitHub, Grafana, Sentry](https://skillicons.dev/icons?i=bun,git,github,grafana,sentry)](https://skillicons.dev)
 
 ## 📖 Read My Newsletters:
 
