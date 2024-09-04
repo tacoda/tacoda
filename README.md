@@ -4,12 +4,6 @@
 
 🌐 [Website](https://tacoda.github.io)
 
-🧑‍💻 [Tech Substack](https://diffengine.substack.com/)
-
-🧳 [Travel Substack](https://roamingroots.substack.com/)
-
-
-[![Tacoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacoda)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 My Tech Stack:
 
@@ -19,5 +13,12 @@
 
 <p>
     <a target="_blank"href="https://diffengine.substack.com/"><img alt="Tech Substack" src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank"href=https://roamingroots.substack.com/"><img alt="Travel Substack" src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank"href=https://roamingroots.substack.com/"><img alt="Travel Substack" src="https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
+</p>
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tacoda&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacoda&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
