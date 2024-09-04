@@ -13,4 +13,4 @@
 
 ## 💻 My Tech Stack:
 
-[![PHP, Laravel, Vue, JavaScript, TypeScript, Docker, Kubernetes, AWS](https://skillicons.dev/icons?i=php,laravel,vue,js,ts,docker,kubernetes,aws)](https://skillicons.dev)
+[![PHP, Python, Ruby, Go, Laravel, Flask, Rails, React, Vue, JavaScript, TypeScript, Docker, Kubernetes, AWS](https://skillicons.dev/icons?i=php,python,ruby,go,laravel,flask,rails,react,vue,js,ts,docker,kubernetes,aws)](https://skillicons.dev)
