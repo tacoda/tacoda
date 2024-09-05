@@ -49,7 +49,7 @@
 
 **Front End**
 
-[![HTML, CSS, Sass, Bootstrap, Tailwind, jQuery, AlpineJS, React, Vue, WebPack, Vite](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,jquery,alpinejs,react,vue,webpack,vite)](https://skillicons.dev)
+[![HTML, CSS, Sass, Bootstrap, Tailwind, jQuery, AlpineJS, React, Vue, Svelte, WebPack, Vite](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,jquery,alpinejs,react,vue,svelte,webpack,vite)](https://skillicons.dev)
 
 **Data Storage**
 
