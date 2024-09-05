@@ -41,7 +41,7 @@
 
 **Languages**
 
-[![C, Go, PHP, Python, Ruby, JavaScript, CoffeeScript, TypeScript](https://skillicons.dev/icons?i=c,go,php,py,ruby,js,coffeescript,ts)](https://skillicons.dev)
+[![C, CoffeeScript, Elixir, Go, Java, JavaScript, PHP, Python, Ruby, Rust, TypeScript](https://skillicons.dev/icons?i=c,coffeescript,elixir,go,java,js,php,py,ruby,rust,ts)](https://skillicons.dev)
 
 **Frameworks**
 
