@@ -41,23 +41,23 @@
 
 **Languages**
 
-[![C, CoffeeScript, Elixir, Go, Java, JavaScript, PHP, Python, Ruby, Rust, TypeScript](https://skillicons.dev/icons?i=c,coffeescript,elixir,go,java,js,php,py,ruby,rust,ts)](https://skillicons.dev)
+[![CoffeeScript, Go, JavaScript, PHP, Python, Ruby, TypeScript](https://skillicons.dev/icons?i=coffeescript,go,js,php,py,ruby,ts)](https://skillicons.dev)
 
 **Frameworks**
 
-[![Laravel, Symfony, Django, Flask, Rails, Express](https://skillicons.dev/icons?i=laravel,symfony,django,flask,rails,express)](https://skillicons.dev)
+[![Laravel, Flask, Rails, Express](https://skillicons.dev/icons?i=laravel,flask,rails,express)](https://skillicons.dev)
 
 **Front End**
 
-[![HTML, CSS, Sass, Bootstrap, Tailwind, jQuery, AlpineJS, React, Vue, Svelte, WebPack, Vite](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,jquery,alpinejs,react,vue,svelte,webpack,vite)](https://skillicons.dev)
+[![HTML, CSS, Sass, Bootstrap, Tailwind, jQuery, React, Vue, WebPack, Vite](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,jquery,react,vue,webpack,vite)](https://skillicons.dev)
 
 **Data Storage**
 
-[![MySQL, Postgres, SQLite, Cassandra, MongoDB, Redis](https://skillicons.dev/icons?i=mysql,postgres,sqlite,cassandra,mongodb,redis)](https://skillicons.dev)
+[![MySQL, Postgres, SQLite, Redis](https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis)](https://skillicons.dev)
 
 **Operations**
 
-[![Ansible, Bash, Linux, Docker, Kafka, Kubernetes, AWS, Regex, GitHub Actions, Jenkins, Terraform](https://skillicons.dev/icons?i=ansible,bash,linux,docker,kafka,kubernetes,aws,regex,githubactions,jenkins,terraform)](https://skillicons.dev)
+[![Ansible, Bash, Linux, Docker, Kubernetes, AWS, Regex, GitHub Actions, Jenkins, Terraform](https://skillicons.dev/icons?i=ansible,bash,linux,docker,kubernetes,aws,regex,githubactions,jenkins,terraform)](https://skillicons.dev)
 
 **Tools**
 
