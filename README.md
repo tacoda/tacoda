@@ -53,11 +53,11 @@
 
 **Data Storage**
 
-[![MySQL, Postgres, SQLite, MongoDB, Redis](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis)](https://skillicons.dev)
+[![MySQL, Postgres, SQLite, Cassandra, MongoDB, Redis](https://skillicons.dev/icons?i=mysql,postgres,sqlite,cassandra,mongodb,redis)](https://skillicons.dev)
 
 **Operations**
 
-[![Bash, Linux, Docker, Kubernetes, AWS, Regex, GitHub Actions, Terraform](https://skillicons.dev/icons?i=bash,linux,docker,kubernetes,aws,regex,githubactions,terraform)](https://skillicons.dev)
+[![Ansible, Bash, Linux, Docker, Kafka, Kubernetes, AWS, Regex, GitHub Actions, Jenkins, Terraform](https://skillicons.dev/icons?i=ansible,bash,linux,docker,kafka,kubernetes,aws,regex,githubactions,jenkins,terraform)](https://skillicons.dev)
 
 **Tools**
 
