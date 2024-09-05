@@ -53,7 +53,7 @@
 
 **Data Storage**
 
-[![MySQL, Postgres, SQLite, Redis](https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis)](https://skillicons.dev)
+[![MySQL, Postgres, SQLite, MongoDB, Redis](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis)](https://skillicons.dev)
 
 **Operations**
 
