@@ -45,7 +45,7 @@
 
 **Frameworks**
 
-[![Laravel, Flask, Rails](https://skillicons.dev/icons?i=laravel,flask,rails)](https://skillicons.dev)
+[![Laravel, Symfony, Django, Flask, Rails](https://skillicons.dev/icons?i=laravel,symfony,django,flask,rails)](https://skillicons.dev)
 
 **Front End**
 
