@@ -13,7 +13,7 @@
 </div>
 
 - 🔭 I’m currently working at [Cerbo](https://www.linkedin.com/company/cerbo-llc/).
-- 🌱 I’m passionate about tools, testing, security, travel, coffee, and key lime pie.
+- 🌱 I’m passionate about pair programming, developer tools, testing, security, travel, coffee, and key lime pie.
 - ❤️ When I'm not coding, I spend my time with my _amazing_ family.
 - ⚡ Fun fact: I read books, play the guitar, and travel the world!
 
