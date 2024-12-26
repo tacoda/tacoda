@@ -6,7 +6,7 @@
 
 <p>
     <a target="_blank" href="mailto:tacoda@hey.com"><img alt="Email" src="https://img.shields.io/badge/email-black?style=for-the-badge&logo=maildotru&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank" href="https://tacoda.github.io"><img alt="Website" src="https://img.shields.io/badge/website-green?style=for-the-badge&logo=curl&logoColor=white" /></a>&nbsp;&nbsp;
+    <a target="_blank" href="https://tacoda.dev"><img alt="Website" src="https://img.shields.io/badge/website-green?style=for-the-badge&logo=curl&logoColor=white" /></a>&nbsp;&nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/tacoda/"><img alt="LinkedIn" src="https://img.shields.io/badge/linked_in-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
