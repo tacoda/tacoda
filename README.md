@@ -2,7 +2,7 @@
 
 <div align="center">
 
-👋 Hello World, I'm Ian!
+👋 Hello, World! I'm Ian.
 
 <p>
     <a target="_blank" href="mailto:tacoda@hey.com"><img alt="Email" src="https://img.shields.io/badge/email-black?style=for-the-badge&logo=maildotru&logoColor=white" /></a>&nbsp;&nbsp;
