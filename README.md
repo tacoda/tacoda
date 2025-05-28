@@ -2,7 +2,7 @@
 
 <div align="center">
 
-👋 Hello, World! I'm Ian.
+## 👋 Hello, World! I'm Ian.
 
 <p>
     <a target="_blank" href="mailto:tacoda@hey.com"><img alt="Email" src="https://img.shields.io/badge/email-black?style=for-the-badge&logo=maildotru&logoColor=white" /></a>&nbsp;&nbsp;
@@ -29,38 +29,5 @@
     <a target="_blank" href="https://diffengine.substack.com/"><img alt="Tech Substack" src="https://img.shields.io/badge/diffengine-orange?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
     <a target="_blank" href=https://roamingroots.substack.com/"><img alt="Travel Substack" src="https://img.shields.io/badge/roamingroots-orange?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
-
-## 🏆 My Stats:
-
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tacoda&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacoda&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
-
-## 💻 My Skill List:
-
-**Languages**
-
-[![CoffeeScript, Go, JavaScript, PHP, Python, Ruby, Rust, TypeScript](https://skillicons.dev/icons?i=coffeescript,go,js,php,py,ruby,rust,ts)](https://skillicons.dev)
-
-**Frameworks**
-
-[![Laravel, Django, Rails](https://skillicons.dev/icons?i=laravel,django,rails)](https://skillicons.dev)
-
-**Front End**
-
-[![HTML, CSS, Sass, Bootstrap, Tailwind, jQuery, React, Vue, WebPack, Vite](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,jquery,react,vue,webpack,vite)](https://skillicons.dev)
-
-**Data Storage**
-
-[![MySQL, Postgres, SQLite, Redis](https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis)](https://skillicons.dev)
-
-**Operations**
-
-[![Ansible, Bash, Linux, Docker, Kubernetes, AWS, Regex, GitHub Actions, Jenkins, Terraform](https://skillicons.dev/icons?i=ansible,bash,linux,docker,kubernetes,aws,regex,githubactions,jenkins,terraform)](https://skillicons.dev)
-
-**Tools**
-
-[![NodeJS, Bun, Cypress, Git, GitHub, Grafana, Prometheus, Sentry, Selenium, Vim, Emacs](https://skillicons.dev/icons?i=nodejs,bun,cypress,git,github,grafana,prometheus,sentry,selenium,vim,emacs)](https://skillicons.dev)
 
 </div>
