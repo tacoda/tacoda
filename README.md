@@ -23,11 +23,4 @@
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 📖 Read My Newsletters:
-
-<p>
-    <a target="_blank" href="https://diffengine.substack.com/"><img alt="Tech Substack" src="https://img.shields.io/badge/diffengine-orange?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
-    <a target="_blank" href=https://roamingroots.substack.com/"><img alt="Travel Substack" src="https://img.shields.io/badge/roamingroots-orange?style=for-the-badge&logo=substack&logoColor=white" /></a>&nbsp;&nbsp;
-</p>
-
 </div>
