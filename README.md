@@ -13,6 +13,7 @@
 </div>
 
 - 🔭 I’m currently working at [Parento](https://www.parentoleave.com).
+- 🔨 I casually contribute to [CASA](https://casavolunteertracking.org).
 - 🌱 I’m passionate about pair programming, developer tools, testing, security, travel, coffee, and key lime pie.
 - ❤️ When I'm not coding, I spend my time with my _amazing_ family.
 - ⚡ Fun fact: I read books, play the guitar, and travel the world!
