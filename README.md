@@ -12,9 +12,11 @@
 
 </div>
 
-- 🔭 I’m currently working at [Parento](https://www.parentoleave.com).
+- 💼 I’m currently working at [Parento](https://www.parentoleave.com).
 - 🔨 I casually contribute to [CASA](https://casavolunteertracking.org).
 - 🌱 I’m passionate about pair programming, developer tools, testing, security, travel, coffee, and key lime pie.
+- 🔭 I'm currently experimenting with agent project harneses. Read more about it [here](https://dev.to/tacoda/series/38117).
+  - 🐴 As part of this line of inquiry, I published a tool to generate agent project harnesses: [sellier](https://dev.to/tacoda/announcing-sellier-4489).
 - ❤️ When I'm not coding, I spend my time with my _amazing_ family.
 - ⚡ Fun fact: I read books, play the guitar, and travel the world!
 
