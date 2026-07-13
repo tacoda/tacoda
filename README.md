@@ -15,8 +15,8 @@
 - 💼 I’m currently working at [Parento](https://www.parentoleave.com).
 - 🔨 I casually contribute to [CASA](https://casavolunteertracking.org).
 - 🌱 I’m passionate about pair programming, developer tools, testing, security, travel, coffee, and key lime pie.
-- 🔭 I'm currently experimenting with agent project harneses. Read more about it [here](https://dev.to/tacoda/series/38117).
-  -  🔑 As part of this line of inquiry, I published an agent-agnostic agent harnesse for any project: [keystone](https://www.tacoda.dev/keystone/).
+-  I recently published [Harness Engineering: Building Reliable Workflows Around Non-Deterministic Agents](https://leanpub.com/harness-engineering).
+- 🔭 As part of this line of inquiry, I published three open source tools: [Keystone](https://www.tacoda.dev/keystone/), [Sigma](https://www.tacoda.dev/sigma/), and [Open Refinery](https://www.tacoda.dev/open-refinery/).
 - ❤️ When I'm not coding, I spend my time with my _amazing_ family.
 - ⚡ Fun fact: I read books, play the guitar, and travel the world!
 
